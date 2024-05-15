@@ -1,4 +1,6 @@
-## Hi there 👋
+## MBARI 
+
+Advancing marine science and engineering to understand our changing ocean.
 
 <!--
 
